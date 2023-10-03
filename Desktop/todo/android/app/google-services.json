@@ -1,0 +1,105 @@
+{
+  "project_info": {
+    "project_number": "279233651444",
+    "project_id": "ny-app-firebase",
+    "storage_bucket": "ny-app-firebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:279233651444:android:f3c506f9a2f5c2af2ff4a1",
+        "android_client_info": {
+          "package_name": "com.example.app2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNRvx6PA2rLMkdzo-NrkNxU1JQJ5vkSW8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:279233651444:android:fbd023b7f6b4ecad2ff4a1",
+        "android_client_info": {
+          "package_name": "com.example.my_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNRvx6PA2rLMkdzo-NrkNxU1JQJ5vkSW8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:279233651444:android:8b6423631b6723892ff4a1",
+        "android_client_info": {
+          "package_name": "com.example.my_app2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNRvx6PA2rLMkdzo-NrkNxU1JQJ5vkSW8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:279233651444:android:ec0be2f787e236f72ff4a1",
+        "android_client_info": {
+          "package_name": "com.example.todo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNRvx6PA2rLMkdzo-NrkNxU1JQJ5vkSW8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:279233651444:android:7fb8fe34485765b12ff4a1",
+        "android_client_info": {
+          "package_name": "se.pixolity.mynotes"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNRvx6PA2rLMkdzo-NrkNxU1JQJ5vkSW8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
